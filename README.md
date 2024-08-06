@@ -53,7 +53,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Bsanjen/b/blob/main/Passport%20Pic.JPG?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Bsanjen/bsanjen/blob/main/IMG_20240502_084436_606.jpg?raw=true" align="center" style="width: 100%" />
 </div>  
 
 
