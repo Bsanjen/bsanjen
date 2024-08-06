@@ -4,7 +4,7 @@
   
 ## 📬 Connect  :
 
-<a href="https://https://github.com/Bsanjen/bsanjen" target="_blank">
+<a href="https://https://github.com/Bsanjen/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/sanjen-bariki-299775210/" target="_blank">
@@ -53,7 +53,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/bsanjen/b/blob/main/Passport%20Pic.JPG?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/Bsanjen/b/blob/main/Passport%20Pic.JPG?raw=true" align="center" style="width: 100%" />
 </div>  
 
 
@@ -68,7 +68,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bsanjen&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bsanjen&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
