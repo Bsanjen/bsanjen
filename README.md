@@ -1,4 +1,4 @@
-### Hey 👋, I'm Shakir Bhat from KASHMIR 🍁 !
+### Hey 👋, I'm Sanjen Bariki from Odisha 🍁 !
 A guy who is passionate about Cloud, DevOps, and Infra services with 4+ years of experience in the IT field.
 
 ### 📬 Connect:
