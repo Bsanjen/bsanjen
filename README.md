@@ -1,6 +1,7 @@
-**Hey 👋, I'm Sanjen Bariki from Odisha 🍁!
-A passionate tech enthusiast with 3+ years of hands-on experience in DevOps, Atlassian services, and cloud technologies. I love to automate, innovate, and optimize processes, with a strong focus on continuous integration and deployment. Currently, I’m deep into building efficient workflows for teams and scaling cloud environments.
-📬 Let's Connect:**
+## Hey 👋, I'm Sanjen Bariki from Odisha 🍁!
+## A passionate tech enthusiast with 3+ years of hands-on experience in DevOps, Atlassian services, and cloud technologies. I love to automate, innovate, and optimize processes, with a strong focus on continuous integration and deployment. Currently, I’m deep into building efficient workflows for teams and scaling cloud environments.
+
+## 📬 Let's Connect:**
 
 <a href="https://github.com/Bsanjen/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
